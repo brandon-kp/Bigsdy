@@ -1,0 +1,13 @@
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\bin\Debug\Bigsdy.exe
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\bin\Debug\Bigsdy.pdb
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.Form1.resources
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.Properties.Resources.resources
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.exe
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.pdb
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\bin\Debug\Bigsdy.exe.manifest
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\bin\Debug\Bigsdy.application
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.exe.manifest
+c:\users\d0p\documents\visual studio 2010\Projects\Bigsdy\Bigsdy\obj\x86\Debug\Bigsdy.application
